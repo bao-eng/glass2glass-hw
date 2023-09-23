@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "7.0.0-da2b9df05c~171~ubuntu22.04.1"
+      "Version": "7.0.7-7.0.7~ubuntu22.04.1"
     },
-    "CreationDate": "2023-09-03T19:05:56+01:00"
+    "CreationDate": "2023-09-18T01:56:04+01:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -41,6 +41,16 @@
     {
       "Path": "cam_delay_meas_photo-B_Cu.gbr",
       "FileFunction": "Copper,L2,Bot",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "cam_delay_meas_photo-F_Silkscreen.gbr",
+      "FileFunction": "Legend,Top",
+      "FilePolarity": "Positive"
+    },
+    {
+      "Path": "cam_delay_meas_photo-B_Silkscreen.gbr",
+      "FileFunction": "Legend,Bot",
       "FilePolarity": "Positive"
     },
     {
